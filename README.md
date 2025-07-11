@@ -1,1 +1,1 @@
-# imge-search-query
+# image-search-query
